@@ -1,0 +1,1 @@
+This study demonstrates the potential of GNN-based models and their explainable components to ease predictive modelling for developmental toxicity, presenting notable benefits for drug development, regulatory chemical safety evaluation, toxicology studies on reducing animal testing, and the evaluation of developmental chemical hazards
